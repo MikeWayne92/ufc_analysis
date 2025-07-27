@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ufc_analysis/static/css/main.224f95b1.css",
-    "main.js": "/ufc_analysis/static/js/main.302a9a59.js",
+    "main.js": "/ufc_analysis/static/js/main.00f7926f.js",
     "index.html": "/ufc_analysis/index.html",
     "main.224f95b1.css.map": "/ufc_analysis/static/css/main.224f95b1.css.map",
-    "main.302a9a59.js.map": "/ufc_analysis/static/js/main.302a9a59.js.map"
+    "main.00f7926f.js.map": "/ufc_analysis/static/js/main.00f7926f.js.map"
   },
   "entrypoints": [
     "static/css/main.224f95b1.css",
-    "static/js/main.302a9a59.js"
+    "static/js/main.00f7926f.js"
   ]
 }

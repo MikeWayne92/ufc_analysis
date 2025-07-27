@@ -215,8 +215,8 @@ const UFCDashboard = () => {
         
         // Load CSV files using fetch API
         const [fightResponse, fighterResponse] = await Promise.all([
-          fetch('/fight_details.csv'),
-          fetch('/fighter_details.csv')
+          fetch('./fight_details.csv'),
+          fetch('./fighter_details.csv')
         ]);
         
         if (!fightResponse.ok) {

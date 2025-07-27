@@ -27,6 +27,10 @@ A modern, data-driven dashboard for exploring and visualizing UFC fight and figh
 - `public/fight_details.csv`: Detailed records of UFC fights (1994-2025)
 - `public/fighter_details.csv`: Biographical and statistical data for UFC fighters
 
+## 🚀 Live Demo
+
+**View the live dashboard:** [https://mikewayne92.github.io/ufc_analysis](https://mikewayne92.github.io/ufc_analysis)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
